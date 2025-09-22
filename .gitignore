@@ -1,0 +1,11 @@
+models/
+.dvc/
+assign_venv/
+.dvcignore
+airflow.db
+simple_auth_manager_passwords.json.generated
+logs/
+mlartifacts/
+mlruns/
+dvcstore/
+dags/__pycache__/

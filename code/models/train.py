@@ -7,7 +7,7 @@ import joblib
 import os
 
 # Настройка трекинг URI
-mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("http://localhost:5001")
 
 # Относительный путь к файлам от корня проекта
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))

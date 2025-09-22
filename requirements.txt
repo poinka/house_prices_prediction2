@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+joblib
+fastapi
+uvicorn
+streamlit
+requests
+dvc
+mlflow
+apache-airflow
+certifi
